@@ -1,1 +1,1 @@
-# hmw2_price_prediction_linear_regresion
+# hmw2_price_prediction_linear_regression
